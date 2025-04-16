@@ -2,7 +2,11 @@
 
 A modern, feature-rich task management application built with React and Tailwind CSS that helps users organize their tasks efficiently through multiple views including Kanban board, Calendar view, and List view.
 
-![Task Manager Screenshots](screenshots.png)
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/067aa6c4-aba5-44ee-9c82-21788af662c1)
+![image](https://github.com/user-attachments/assets/9460fbba-ab8a-47d5-bdc6-ece648eee805)
+![image](https://github.com/user-attachments/assets/002de46a-4763-486f-82a2-72874cf82fa9)
 
 ## Features
 
@@ -30,12 +34,6 @@ A modern, feature-rich task management application built with React and Tailwind
   - Pending: ⏳
 - Dark/Light mode support
 - Responsive design
-
-  ## img
-![image](https://github.com/user-attachments/assets/067aa6c4-aba5-44ee-9c82-21788af662c1)
-![image](https://github.com/user-attachments/assets/9460fbba-ab8a-47d5-bdc6-ece648eee805)
-![image](https://github.com/user-attachments/assets/002de46a-4763-486f-82a2-72874cf82fa9)
-
 
 
 ### 4. Advanced Features
