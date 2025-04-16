@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager Application
 
 A modern, feature-rich task management application built with React and Tailwind CSS that helps users organize their tasks efficiently through multiple views including Kanban board, Calendar view, and List view.
@@ -135,3 +136,7 @@ task-manager/
 - Tailwind CSS for the utility-first CSS framework
 - react-big-calendar for the calendar component
 - All contributors who have helped shape this project 
+=======
+# task-tracker
+task-tracker (React JS)
+>>>>>>> 1e7c55e (Initial commit)
