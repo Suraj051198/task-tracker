@@ -31,6 +31,13 @@ A modern, feature-rich task management application built with React and Tailwind
 - Dark/Light mode support
 - Responsive design
 
+  ## img
+![image](https://github.com/user-attachments/assets/067aa6c4-aba5-44ee-9c82-21788af662c1)
+![image](https://github.com/user-attachments/assets/9460fbba-ab8a-47d5-bdc6-ece648eee805)
+![image](https://github.com/user-attachments/assets/002de46a-4763-486f-82a2-72874cf82fa9)
+
+
+
 ### 4. Advanced Features
 - Global task search
 - Task filtering by status, priority, and category
@@ -123,9 +130,6 @@ task-manager/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
